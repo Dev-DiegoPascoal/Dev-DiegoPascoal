@@ -45,9 +45,12 @@
   <a href="https://instagram.com/diegoviolapascoal/" target="_blank" rel="noopener noreferrer" aria-label="Instagram de Diego Pascoal">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://discord.gg/diegopascoal" target="_blank" rel="noopener noreferrer" aria-label="Discord de Diego Pascoal">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a> 
+<a href="https://dev-diegopascoal.github.io/meu_portifolio/" target="_blank" rel="noopener noreferrer" aria-label="Portfólio de Diego Pascoal">
+  <img src="https://img.shields.io/badge/-Meu--Portifólio-%235c66f3?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAQklEQVQoU2NkQAP/Gf4fJhBlZGBgYODAQMQAFZDKYCZgMjAxM4g8hjMzM9QEUwITC0gWQfAQUxjNnDRAkAIBoUDXGEKyAAAAABJRU5ErkJggg==](https://github.com/Dev-DiegoPascoal/meu_portifolio/blob/main/src/imagens/logo_diegopascoal_branca_pequeno.png)&logoColor=white" alt="Badge do Portfólio"/>
+</a>
+
+
+
   <a href="mailto:contatodiegopascoal@gmail.com" target="_blank" rel="noopener noreferrer" aria-label="Email de contato Diego Pascoal">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
