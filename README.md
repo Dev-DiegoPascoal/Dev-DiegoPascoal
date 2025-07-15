@@ -1,16 +1,69 @@
-## Hi there 👋
+<div align="center" style="
+  background-color: #f0f0f0; 
+  padding: 70px 50px;        
+  border-radius: 30px;     
+  max-width: 900px;         
+  margin: auto;
+">
+  <h1>👋 Olá, seja bem-vindo(a) ao meu GitHub!</h1>
+</div>
+<div align="center" style="background-color: #f0f0f0; padding: 15px; border-radius: 10px; max-width: 600px; margin: auto;">
 
-<!--
-**Dev-DiegoPascoal/Dev-DiegoPascoal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
+  <p style="font-size: 1.2em; margin: 5px;">💻 Desenvolvedor Web</p>
+  <p style="font-size: 1.1em; margin: 5px;">🚀 Apaixonado por Tecnologia</p>
+  <br>
+ <div align="center" style="
+  background-color: #f0f0f0; 
+  padding: 10px 50px;        
+  border-radius: 10px;     
+  max-width: 400px;         
+  margin: auto;
+">
+  <h2>📊 Estatísticas do GitHub</h2>
+</div>
+  <a href="https://github.com/Dev-DiegoPascoal" target="_blank" style="text-decoration: none;">
+  <img style="height: 180px;" src="https://github-readme-stats.vercel.app/api?username=Dev-DiegoPascoal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de  Diego Pascoal"/>
+  <img style="height: 180px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-DiegoPascoal&layout=compact&langs_count=6&theme=tokyonight" alt="Top Languages"/>
+</a>
+</div>
 
-Here are some ideas to get you started:
+<br>
+<div align="center" style="
+  background-color: #f0f0f0; 
+  padding: 10px 50px;        
+  border-radius: 10px;     
+  max-width: 400px;         
+  margin: auto;
+">
+<h2>🛠️ Tecnologias que utilizo:</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div align="center">
+  <img alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+  <img alt="HTML5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+  <img alt="CSS3" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+</div>
+
+<br><br>
+
+## 📌 Para conhecer melhor a minha trajetória, clique nos links abaixo:
+
+<div align="center">
+  <a href="https://www.youtube.com/@diegopascoal3286" target="_blank" rel="noopener noreferrer" aria-label="YouTube de Diego Pascoal">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="https://instagram.com/diegoviolapascoal/" target="_blank" rel="noopener noreferrer" aria-label="Instagram de Diego Pascoal">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://discord.gg/diegopascoal" target="_blank" rel="noopener noreferrer" aria-label="Discord de Diego Pascoal">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a> 
+  <a href="mailto:contatodiegopascoal@gmail.com" target="_blank" rel="noopener noreferrer" aria-label="Email de contato Diego Pascoal">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/diegoappascoal/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn de Diego Pascoal">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
+
