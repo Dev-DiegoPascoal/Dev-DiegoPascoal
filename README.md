@@ -8,11 +8,8 @@
   <h1>👋 Olá, seja bem-vindo(a) ao meu GitHub!</h1>
 </div>
 <div align="center" style="background-color: #f0f0f0; padding: 15px; border-radius: 10px; max-width: 600px; margin: auto;">
-
-  
   <p style="font-size: 1.2em; margin: 5px;">💻 Desenvolvedor Web</p>
   <p style="font-size: 1.1em; margin: 5px;">🚀 Apaixonado por Tecnologia</p>
-  <br>
  <div align="center" style="
   background-color: #f0f0f0; 
   padding: 10px 50px;        
@@ -27,8 +24,6 @@
   <img style="height: 180px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-DiegoPascoal&layout=compact&langs_count=6&theme=tokyonight" alt="Top Languages"/>
 </a>
 </div>
-
-<br>
 <div align="center" style="
   background-color: #f0f0f0; 
   padding: 10px 50px;        
@@ -37,18 +32,13 @@
   margin: auto;
 ">
 <h2>🛠️ Tecnologias que utilizo:</h2>
-
-
 <div align="center">
   <img alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
   <img alt="HTML5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
   <img alt="CSS3" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
 </div>
 
-<br><br>
-
 ## 📌 Para conhecer melhor a minha trajetória, clique nos links abaixo:
-
 <div align="center">
   <a href="https://www.youtube.com/@diegopascoal3286" target="_blank" rel="noopener noreferrer" aria-label="YouTube de Diego Pascoal">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
