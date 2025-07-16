@@ -31,7 +31,7 @@
   margin: auto;
 ">
 <h2>🛠️ Tecnologias que utilizo:</h2>
-<div align="center">
+<div align="center" >
   <img alt="JavaScript" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
   <img alt="HTML5" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
   <img alt="CSS3" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
@@ -50,12 +50,9 @@
   <a href="https://instagram.com/diegoviolapascoal/" target="_blank" rel="noopener noreferrer" aria-label="Instagram de Diego Pascoal">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-<a href="https://dev-diegopascoal.github.io/meu_portifolio/" target="_blank" rel="noopener noreferrer" aria-label="Portfólio de Diego Pascoal">
+<!-- <a href="https://dev-diegopascoal.github.io/meu_portifolio/" target="_blank" rel="noopener noreferrer" aria-label="Portfólio de Diego Pascoal">
   <img src="https://img.shields.io/badge/-Meu--Portifólio-%235c66f3?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAQklEQVQoU2NkQAP/Gf4fJhBlZGBgYODAQMQAFZDKYCZgMjAxM4g8hjMzM9QEUwITC0gWQfAQUxjNnDRAkAIBoUDXGEKyAAAAABJRU5ErkJggg==](https://github.com/Dev-DiegoPascoal/meu_portifolio/blob/main/src/imagens/logo_diegopascoal_branca_pequeno.png)&logoColor=white" alt="Badge do Portfólio"/>
-</a>
-
-
-
+</a> -->
   <a href="mailto:contatodiegopascoal@gmail.com" target="_blank" rel="noopener noreferrer" aria-label="Email de contato Diego Pascoal">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
