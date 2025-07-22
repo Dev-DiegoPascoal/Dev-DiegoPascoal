@@ -16,13 +16,14 @@
   max-width: 400px;         
   margin: auto;
 ">
+ <div align="center" style="background-color: #f0f0f0; padding: 10px 50px; border-radius: 10px; max-width: 400px; margin: auto;">
   <h2>📊 Estatísticas do GitHub</h2>
-</div>
   <a href="https://github.com/Dev-DiegoPascoal" target="_blank" style="text-decoration: none;">
-  <img style="height: 130px;" src="https://github-readme-stats.vercel.app/api?username=Dev-DiegoPascoal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de  Diego Pascoal"/>
-  <img style="height: 130px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-DiegoPascoal&layout=compact&langs_count=6&theme=tokyonight" alt="Top Languages"/>
-</a>
+    <img style="height: 130px;" src="https://github-readme-stats.vercel.app/api?username=Dev-DiegoPascoal&show_icons=true&theme=tokyonight&count_private=true&token=SEU_TOKEN_AQUI" alt="Estatísticas do GitHub de Diego Pascoal"/>
+    <img style="height: 130px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-DiegoPascoal&layout=compact&langs_count=6&theme=tokyonight" alt="Top Languages"/>
+  </a>
 </div>
+
 <div align="center" style="
   background-color: #f0f0f0; 
   padding: 10px 50px;        
