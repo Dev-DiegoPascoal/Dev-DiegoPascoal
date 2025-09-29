@@ -8,7 +8,7 @@
   <h2>👋 Olá, seja bem-vindo(a) ao meu GitHub!</h2>
 </div>
 <div align="center" style="background-color: #f0f0f0; padding: 15px; border-radius: 10px; max-width: 600px; margin: auto;">
-  <p style="font-size: 1.2em; margin: 5px;"> 💻 Desenvolvedor Web  |  🚀 Apaixonado por Tecnologia  |  🎓Formado em Análise e Desenvolvimento de Sistemas | ⏳Bacharelado Engenharia da Computação</p>
+  <p style="font-size: 1.2em; margin: 5px;"> 💻 Desenvolvedor Web  |  🚀 Apaixonado por Tecnologia  |  🎓Formado em Análise e Desenvolvimento de Sistemas | ⏳Estudante de Bacharelado em Engenharia da Computação</p>
  <div align="center" style="
   background-color: #f0f0f0; 
   padding: 10px 50px;        
@@ -31,7 +31,7 @@
   max-width: 400px;         
   margin: auto;
 ">
-<h2>🛠️ Tecnologias que utilizo:</h2>
+<h2>🛠️ Tecnologias que eu utilizo:</h2>
 <div align="center" >
   <img alt="JavaScript" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
   <img alt="HTML5" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
