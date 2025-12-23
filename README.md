@@ -8,7 +8,7 @@
   <h2>👋 Olá, seja bem-vindo(a) ao meu GitHub!</h2>
 </div>
 <div align="center" style="background-color: #f0f0f0; padding: 15px; border-radius: 10px; max-width: 600px; margin: auto;">
-  <p style="font-size: 1.2em; margin: 5px;"> 💻 Desenvolvedor Web  |  🚀 Apaixonado por Tecnologia  |  🎓Formado em Análise e Desenvolvimento de Sistemas | ⏳Estudante de Bacharelado em Engenharia da Computação</p>
+  <p style="font-size: 1.2em; margin: 5px;"> 💻 Desenvolvedor Web Genexus|  🚀 Apaixonado por Tecnologia  |  🎓Formado em Análise e Desenvolvimento de Sistemas | ⏳Estudante de Bacharelado em Engenharia da Computação</p>
  <div align="center" style="
   background-color: #f0f0f0; 
   padding: 10px 50px;        
