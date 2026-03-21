@@ -41,6 +41,8 @@
   <img alt="C#" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
   <img alt="GitHub" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />
   <img alt="VS Code" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
+  <img alt="SQL" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+  <img alt="GeneXus 18" height="30" width="50" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Genexus_logo.png" />
 </div>
 
 ## 📌 Para conhecer melhor a minha trajetória, clique nos links abaixo:
