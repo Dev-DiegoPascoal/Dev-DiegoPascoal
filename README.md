@@ -42,7 +42,7 @@
   <img alt="GitHub" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />
   <img alt="VS Code" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
   <img alt="SQL" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-  <img alt="GeneXus 18" height="30" width="50" src="https://seeklogo.com/images/G/genexus-logo-4C2E0A9F4E-seeklogo.com.png" />
+  <img alt="GeneXus 18" height="30" src="./logo_Genexus.png" />
 </div>
 
 ## 📌 Para conhecer melhor a minha trajetória, clique nos links abaixo:
